@@ -1,0 +1,27 @@
+User Profile:
+User ID: 11
+Profession: Teacher
+Likes: Education, Child Development
+Current Project: Creating a curriculum focused on nutrition awareness
+
+Top Matches:
+1. User ID 21 is a Teacher who likes Early Childhood Education, Reading and is currently working on Developing books focused on nutrition education
+2. User ID 29 is a Nutritionist who likes Diet Planning, Wellness and is currently working on Developing a school-based nutrition program
+3. User ID 5 is a Nutritionist who likes Cooking, Wellness and is currently working on Creating a plant-based diet plan for children
+4. User ID 20 is a Chef who likes Culinary Arts, Nutrition and is currently working on Creating recipes for a healthy kids’ cookbook
+5. User ID 9 is a Doctor who likes Pediatrics, Public Health and is currently working on Researching nutrition impact on child development
+
+GPT Recommendation:
+The best match for the user is Match 1.
+
+- **User ID:** N/A (Teacher working on curriculum focused on nutrition awareness)
+- **Match ID:** 1 (Teacher developing books focused on nutrition education)
+
+**Reason for Selection:** Match 1 shares the same profession (Teacher) and is involved in a project closely aligned with the user's current project, focusing on nutrition education. Both share interests in education and child development, making it likely they have similar goals and can collaborate effectively on educational materials.
+
+**Brief Reasons for Not Selecting Other Matches:**
+
+- **Match 2:** Although involved in a school-based nutrition program, the profession differs, and there may be less overlap in educational approaches and methodologies.
+- **Match 3:** Focuses on a specific dietary plan, which may not align directly with the user's broader educational goals.
+- **Match 4:** While involved in nutrition, the focus is more culinary, which may not align with the educational aspect of the user's project.
+- **Match 5:** Although their research involves child development and nutrition, the medical focus might not align as closely with the user's educational and curriculum development focus.

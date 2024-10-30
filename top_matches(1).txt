@@ -1,0 +1,24 @@
+User Profile:
+User ID: 14
+Profession: Fitness Coach
+Likes: Exercise, Child Fitness
+Current Project: Developing a fitness program for young children
+
+Top Matches:
+1. User ID 5 is a Nutritionist who likes Cooking, Wellness and is currently working on Creating a plant-based diet plan for children
+2. User ID 29 is a Nutritionist who likes Diet Planning, Wellness and is currently working on Developing a school-based nutrition program
+3. User ID 20 is a Chef who likes Culinary Arts, Nutrition and is currently working on Creating recipes for a healthy kids’ cookbook
+4. User ID 11 is a Teacher who likes Education, Child Development and is currently working on Creating a curriculum focused on nutrition awareness
+5. User ID 8 is a Chef who likes Baking, Experimenting with flavors and is currently working on Developing healthy snack recipes for kids
+
+GPT Recommendation:
+The most meaningful connection would be between UserID: 14 (Fitness Coach) and UserID: 5 (Nutritionist).
+
+**Reason for Selection:**
+- Both users are focused on children's health and wellness, with UserID: 14 developing a fitness program for young children and UserID: 5 creating a plant-based diet plan for children. Their combined expertise in fitness and nutrition can complement each other's projects and lead to a more comprehensive approach to child health.
+
+**Other Matches:**
+1. **UserID: 29** - While their project aligns with child nutrition, their focus is more on school-based programs, which may not directly align with UserID: 14's fitness program development.
+2. **UserID: 20** - Although their project involves healthy recipes for kids, their primary focus is culinary arts, which might not be as closely related to fitness.
+3. **UserID: 11** - Their expertise in education and curriculum development is valuable, but it may not directly support the fitness and exercise aspect.
+4. **UserID: 8** - Similar to UserID: 20, their focus on culinary arts and snack recipes might not align as closely with fitness and exercise for children.
